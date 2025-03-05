@@ -188,7 +188,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Bukit Timah Nature Reserve',
-            description: 'Bukit Timah Nature Reserve is one of the oldest pristine tropical rainforest reserves in Singapore, with abundant wildlife. This is also a popular destination for nature enthusiasts and hikers.<br><br> Through strict management and increased environmental awareness, Bukit Timah Nature Reserve has successfully achieved a harmonious coexistence of wildlife conservation and tourist viewing and play.',
+            description: '<img src="images/example.jpg" style="height:100%; width:450px;"></img> <br><br> Bukit Timah Nature Reserve is one of the oldest pristine tropical rainforest reserves in Singapore, with abundant wildlife. This is also a popular destination for nature enthusiasts and hikers.<br><br> Through strict management and increased environmental awareness, Bukit Timah Nature Reserve has successfully achieved a harmonious coexistence of wildlife conservation and tourist viewing and play.',
             location: {
                 center: [103.80125, 1.38120],
                 zoom: 11.8,
